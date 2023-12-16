@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 3. Run the app:
 ```
-streamlit run 01_📊_Dashboard.py
+streamlit run 01_Dashboard.py
 ```
 
 ## 📨 Contact Me
