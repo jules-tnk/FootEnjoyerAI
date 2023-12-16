@@ -17,11 +17,9 @@ OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 openai.api_key = OPENAI_API_KEY
 
-st.set_page_config(page_title="Morocco Disaster", page_icon="🇲🇦")
+st.set_page_config(page_title="Baolink", layout="wide", page_icon="🇲🇦")
 
 col1, col2, col3, col4, col5 = st.columns(5)
-with col3:
-    st.image("https://i.ibb.co/Df19cyK/khaimaAI.png")
 
 st.header("💬 Chatbot")
 

@@ -6,7 +6,7 @@ import folium
 
 from streamlit_folium import st_folium
 
-st.set_page_config(page_title="Morocco Disaster", layout="wide", page_icon="🇲🇦")
+st.set_page_config(page_title="Baolink", layout="wide", page_icon="🇲🇦")
 
 col1, col2, col3, col4, col5 = st.columns(5)
 with col3:
